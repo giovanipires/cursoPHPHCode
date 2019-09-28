@@ -14,7 +14,7 @@
 
     <?php
 
-    echo "Hello <strong>Word!</strong>";
+    echo "Olá <strong>Mundo!</strong>";
 
     ?>
 
