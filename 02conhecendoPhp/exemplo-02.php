@@ -16,7 +16,18 @@
       <div class="">
         <?php
 
-          
+        //Camel case
+        $anoNascimento = 1980;
+        $mesDeNascimento = "Novembro";
+        echo "O seu ano de nascimento é: " .$anoNascimento. " e seu mês de nascimento é: " .$mesDeNascimento;
+
+        //limpar variavel, e definir verificação
+        //unset => destrói a variável
+        //isset => verifica se a variável existe
+        unset($anoNascimento);
+        if (isset($anoNascimento)) {
+          echo $anoNascimento;
+        }
 
         ?>
       </div>
