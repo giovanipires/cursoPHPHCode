@@ -23,3 +23,7 @@ Arrays em PHP (27 min)
 # Seção 6:
 
 Sessão em PHP (30 min)
+
+# Seção 7:
+
+Trabalhando com funções. (1h 7 min)
