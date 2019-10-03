@@ -27,3 +27,11 @@ Sessão em PHP (30 min)
 # Seção 7:
 
 Trabalhando com funções. (1h 7 min)
+
+# Seção 8:
+
+Trabalhando com datas (26min)
+
+#Seção 9:
+
+POO (2h 50 min )
